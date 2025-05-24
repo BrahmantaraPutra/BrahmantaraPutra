@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Brahmantara Putra</h1>
----
 <h3 align="center">Blockchain Developer & Business Software Engineer</h3>
 
 <!-- Typing SVG -->
