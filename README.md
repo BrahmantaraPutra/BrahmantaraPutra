@@ -1,6 +1,6 @@
 <!-- Banner di paling atas, full width dan center -->
 <p align="center">
-  <img src="img/github-header-image.png" alt="Banner" style="width: 100%; max-width: 900px; height: auto;" />
+  <img src="img/Black Minimal Business Personal Profile Linkedin Banner.jpg" alt="Banner" style="width: 100%; max-width: 900px; height: auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Brahmantara Putra</h1>
