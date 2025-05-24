@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 - 🧠 I love building useful apps to solve real-world business problems  
 - 🌱 Currently learning **Smart Contract Development**, **API Security**, and **Mobile App Engineering**
-- ✉️ Reach me at: **BrahmantaraPutra@gmail.com**
+- ✉️ Reach me at: **BrahmantaraPutraW@gmail.com**
 - 🎯 Focused on: Web3, Mobile Dev, and Business APIs
 
 ---
@@ -103,7 +103,7 @@
   <a href="https://youtube.com/@searchforbael?si=4OQgsA9GQnob4Qew" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" /></a>
   <a href="https://www.instagram.com/searchforoutra?igsh=eG51NzcxZGIzMXlx" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" /></a>
   <a href="https://wa.me/qr/4VIMS5UR5EDVC1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo" /></a>
-  <a href="mailto:brahmantaraPutra@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" /></a>
+  <a href="mailto:brahmantaraPutraW@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" /></a>
 </div>
 
 
