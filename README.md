@@ -59,7 +59,7 @@
 
 ---
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BrahmantaraPutra&show_icons=true&theme=tokyonight" height="180"/>
@@ -67,7 +67,7 @@
 
 ---
 
-#### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=BrahmantaraPutra&theme=tokyonight&no-frame=true&column=7" />
@@ -75,7 +75,7 @@
 
 ---
 
-#### 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BrahmantaraPutra&theme=tokyonight" />
