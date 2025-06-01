@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 - 🧠 I love building useful apps to solve real-world business problems  
 - 🌱 Currently learning **Smart Contract Development**, **API Security**, and **Mobile App Engineering**
-- ✉️ Reach me at: **BrahmantaraPutraW@gmail.com**
+- ✉️ Reach me at: **brahmantaraputraw@gmail.com**
 - 🎯 Focused on: Web3, Mobile Dev, and Business APIs
 
 ---
