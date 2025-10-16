@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Brahmantara Putra</h1>
-<h3 align="center">Blockchain Developer & Business Software Engineer</h3>
+<h3 align="center">Mobile App Developer & Business Software Engineer</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -17,7 +17,7 @@
 - 🧠 I love building useful apps to solve real-world business problems  
 - 🌱 Currently learning **Smart Contract Development**, **API Security**, and **Mobile App Engineering**
 - ✉️ Reach me at: **brahmantaraputraw@gmail.com**
-- 🎯 Focused on: Web3, Mobile Dev, and Business APIs
+- 🎯 Focused on: Database, Mobile Dev, and Business APIs
 
 ---
 
