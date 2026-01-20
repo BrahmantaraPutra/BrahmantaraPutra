@@ -70,22 +70,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrahmantaraPutra&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BrahmantaraPutra&theme=tokyonight" />
-</p>
-
----
-
 
 
 <picture>
