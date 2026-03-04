@@ -73,7 +73,7 @@
 
 ### 📊 GitHub Stats
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Poppins&preferLogin=true">    <img  alt="BrahmantaraPutra's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BrahmantaraPutra?cardType=level&theme=tokyonight&fontFamily=Poppins&preferLogin=true" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=midnight-purple&fontFamily=Poppins&preferLogin=true">    <img  alt="BrahmantaraPutra's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BrahmantaraPutra?cardType=level&theme=midnight-purple&fontFamily=Poppins&preferLogin=true" />  </a>
 
 ###
 
