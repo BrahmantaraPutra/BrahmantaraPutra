@@ -74,6 +74,7 @@
 ### 📊 GitHub Stats
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=prussian&fontFamily=Poppins&preferLogin=true">    <img  alt="BrahmantaraPutra's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BrahmantaraPutra?cardType=level&theme=prussian&fontFamily=Poppins&preferLogin=true" />  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=BrahmantaraPutra)](https://git.io/streak-stats)
 
 ###
 
