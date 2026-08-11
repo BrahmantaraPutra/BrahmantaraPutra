@@ -1,30 +1,38 @@
-<!-- Banner di paling atas, full width dan center -->
+<!-- Banner GIF di paling atas, full width dan center -->
 <p align="center">
-  <img src="img/Black Abstract Software Technology Corporate LinkedIn Banner.png" alt="Banner" style="width: 100%; max-width: 900px; height: auto;" />
+  <img src="https://media1.tenor.com/m/XJYsrtZQQYUAAAAC/bleach-kuchiki-byakuya.gif" alt="Banner" style="width: 100%; max-width: 900px; height: auto;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Brahmantara Putra</h1>
-<h3 align="center">Mobile App Developer & Software Developer</h3>
+<h1 align="center">Hi, I'm Brahmantara Putra Wirabhakti</h1>
+<h3 align="center">Software Engineer</h3>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=Mobile+App+Developer;Software+Engineer+for+Business;Coding+Smart+Solutions+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=Smart+Code+Everyday;Make+Mobile+%26+Desktop+Application;Exploring+Blockchain+Development" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🧠 I love building useful apps to solve real-world business problems  
-- 🌱 Currently learning **Smart Contract Development**, **API Security**, and **Mobile App Engineering**
-- ✉️ Reach me at: **brahmantaraputraw@gmail.com**
-- 🎯 Focused on: Database, Mobile Dev, and Business APIs
+### ✨ About Me
+
+I'm a Software Engineer passionate about building applications that solve real business problems, from initial architecture to final release. My work spans mobile and desktop app development, blockchain exploration, and designing efficient, scalable database solutions.
+
+- 📱 **Mobile & Desktop Development** — building cross-platform applications that are stable and user-friendly
+- ⛓️ **Blockchain Development** — currently exploring smart contracts and decentralized architecture
+- 🗄️ **Database Design** — designing efficient database schemas tailored to business needs
+- 🧠 **Problem Solving** — enjoy turning real-world business challenges into practical software solutions
+- 🤝 **Collaboration** — open to discussions, open-source contributions, and collaborative projects
+
+I believe good code isn't just about working functionality, it's also about readability, security, and maintainability. I enjoy exploring new technologies and applying them to build solutions that are both practical and impactful.
+
+📧 Reach me at: **brahmantaraputraw@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### 📌 Programming Languages
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -37,28 +45,30 @@
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
 </p>
 
-#### 🗄️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=whitee"/>
-</p>
-
 #### 🧰 Frameworks & Libraries
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE"/>
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+#### 🗄️ Database
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 #### ⚙️ Tools & Applications
-<p align="left">
+<p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" height="50" alt="Android Studio"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="Github"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" alt="Visual Studio"/>
@@ -66,27 +76,29 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" alt="Figma"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GTK-Dark.svg" height="50" alt="Gtk"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50" alt="Postman"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="50" alt="Postman"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="50" alt="Linux"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=prussian&fontFamily=Poppins&preferLogin=true">    <img  alt="BrahmantaraPutra's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BrahmantaraPutra?cardType=level&theme=prussian&fontFamily=Poppins&preferLogin=true" />  </a>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=BrahmantaraPutra)](https://git.io/streak-stats)
+**GitHub Contribution Stats** — generated by [`BrahmantaraPutra/github-stats-transparent`](https://github.com/BrahmantaraPutra/github-stats-transparent)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrahmantaraPutra/github-stats-transparent/output/generated/overview.svg" alt="GitHub Contribution Overview" />
+  <img src="https://raw.githubusercontent.com/BrahmantaraPutra/github-stats-transparent/output/generated/languages.svg" alt="GitHub Language Stats" />
+</p>
 
 ###
 
----
-
-
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrahmantaraPutra/BrahmantaraPutra/output/pacman-contribution-graph.svg">
 </picture>
+</p>
 
 ###
 
@@ -102,5 +114,3 @@
   <a href="https://wa.me/qr/4VIMS5UR5EDVC1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo" /></a>
   <a href="mailto:brahmantaraPutraW@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" /></a>
 </div>
-
-
