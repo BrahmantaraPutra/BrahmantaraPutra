@@ -1,6 +1,6 @@
 <!-- Banner GIF di paling atas, full width dan center -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/jrPqCXXG_wAAAAAC/bleach-bankai.gif" alt="Banner" style="width: 100%; max-width: 900px; height: 400px;" />
+  <img src="https://media1.tenor.com/m/jrPqCXXG_wAAAAAC/bleach-bankai.gif" alt="Banner" style="width: 100%; max-width: 900px; height: 300px;" />
 </p>
 
 <h1 align="center">Hi, I'm Brahmantara Putra Wirabhakti</h1>
