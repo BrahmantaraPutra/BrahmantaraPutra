@@ -26,6 +26,7 @@ I'm a Software Engineer passionate about building applications that solve real b
 I believe good code isn't just about working functionality, it's also about readability, security, and maintainability. I enjoy exploring new technologies and applying them to build solutions that are both practical and impactful.
 
 📧 Reach me at: **brahmantaraputraw@gmail.com**
+ <p align="left"> <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a> <a href="https://www.instagram.com/searchforoutra?igsh=eG51NzcxZGIzMXlx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a> <a href="https://discord.com/users/searchforoutra" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a> <a href="https://x.com/fydoutras?s=09" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>  </p>
 
 ---
 
