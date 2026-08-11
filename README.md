@@ -4,11 +4,9 @@
 </p>
 
 <h1 align="center">Hi, I'm Brahmantara Putra Wirabhakti</h1>
-<h3 align="center">Software Engineer</h3>
-
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=Smart+Code+Everyday;Make+Mobile+%26+Desktop+Application;Exploring+Blockchain+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=Software+Engineer;Exploring+Blockchain+Development" />
 </p>
 
 ---
