@@ -3,10 +3,10 @@
   <img src="https://media1.tenor.com/m/XJYsrtZQQYUAAAAd/bleach-kuchiki-byakuya.gif" alt="Banner" style="width: 100%; max-width: 900px; height: 300px;" />
 </p>
 
-<h1 align="center">Hello, I'm Putra</h1>
+<h1 align="center">Hollaa 👋, I'm Putra</h1>
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=Junior+Developer;Exploring+Blockchain+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=I'm+Fullstack+Developer;Exploring+Blockchain+Development" />
 </p>
 
 
