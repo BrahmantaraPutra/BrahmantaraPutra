@@ -1,6 +1,6 @@
 <!-- Banner GIF di paling atas, full width dan center -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/AjOXihbTkkIAAAAC/bankai-senjumaru.gif" alt="Banner" style="width: 100%; max-width: 900px; height: 300px;" />
+  <img src="https://media1.tenor.com/m/AdAYKy4W5joAAAAd/senjumaru-senjumaru-shutara.gif" alt="Banner" style="width: 100%; max-width: 900px; height: 300px;" />
 </p>
 
 <h1 align="center">Hollaa 👋, I'm Putra</h1>
