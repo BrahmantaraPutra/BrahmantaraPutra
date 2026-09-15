@@ -8,7 +8,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/emmi-lili">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Casvall+-+Software+Engineer;Building+Web,+Mobile+%26+Cross-Platform+Desktop+Apps;Building+here+since+Forever" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Casvall+-+Software+Engineer;Building+Mobile+%26+Cross-Platform+Desktop+Apps;Building+here+since+Forever" alt="typing banner">
 </a>
 
 
