@@ -1,13 +1,15 @@
-<!-- Banner GIF di paling atas, full width dan center -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/Wg4i9gEJE0AAAAAC/senjumaru-shutara-bankai.gif" alt="Banner" style="width: 100%; max-width: 900px; height: 300px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/card-chart/main/assets/banner-dark.v9.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahmantaraPutra/card-chart/main/assets/banner-light.v9.svg">
+    <img alt="Banner" src="https://raw.githubusercontent.com/BrahmantaraPutra/card-chart/main/assets/banner-dark.v9.svg" width="100%">
+  </picture>
 </p>
 
-<h1 align="center">Hollaa 👋, I'm Putra</h1>
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=440&lines=I'm+Fullstack+Developer;Exploring+Blockchain+Development" />
-</p>
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/emmi-lili">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Casvall+-+Software+Engineer+%26+Full+Stack+Developer;Crafting+Web,+Mobile+%26+Cross-Platform+Desktop+Apps;Building+here+since+Forever" alt="typing banner">
+</a>
 
 
 ### ✨ About Me
